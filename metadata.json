@@ -1,0 +1,7 @@
+{
+  "name": "test-web",
+  "description": "A luxury architectural showcase for warm, cozy, and inviting home designs, featuring a Gemini-powered AI design consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
